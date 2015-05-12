@@ -1,0 +1,11 @@
+
+
+The final results are: 
+the parameter is : 
+popsize=50, dimension=20, maximum generation= 200
+maximum function evaluations (FEs)=10000
+the result is: total_fit ---3.23849
+the solution is :
+0.0320138 -0.921523 -0.919816 -0.920039 -0.917746 -0.920014 0.0708547 -0.920014 -0.919176 -0.91924 -0.919816 -0.923363 0.102619 -0.919816 -0.919779 -0.125624 -0.919816 -0.921523 -0.0597556 -0.905206 
+CLOCKS_PER_SEC  1000
+the time is:  3.26
